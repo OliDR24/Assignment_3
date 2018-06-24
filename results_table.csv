@@ -1,0 +1,5 @@
+"Classifier","Training_Accuracy","Testing_Accuracy","Accuracy_lower_95","Accuracy_upper_95","Kappa","Parameters"
+"NB",0.84,0.85,0.83,0.86,0.81,"fL: 0, usekernel: 1, adjust: 1"
+"GBM",0.98,0.91,0.9,0.92,0.9,"n.trees: 150, interaction.depth: 3, shrinkage: 0.1, n.minobsinnode: 10"
+"DTREE",0.6,0.53,0.83,0.55,0.43,"cp: 0.1662"
+"RF",0.97,0.9,0.88,0.91,0.87,"mtry: 43"
